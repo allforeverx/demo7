@@ -11,6 +11,6 @@
     <title>欢迎页</title>
 </head>
 <body>
-    Hello Spring MVC :)
+    Hello Spring MVC :) 哈哈！
 </body>
 </html>
