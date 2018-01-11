@@ -12,6 +12,6 @@
 </head>
 <body>
     Hello Spring MVC :) 哈哈！
-    版本控制测试用！
+    版本控制测试用2！
 </body>
 </html>
